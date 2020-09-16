@@ -11,7 +11,7 @@ The ratings_dict_all.pkl file returns all tickers along with each of their avera
 
 ###### Notes
 
-To run the program, type **python wsj-analyst-spreads.py** into your terminal.
+To run the program, type **"python wsj-analyst-spreads.py"** into your terminal.
 
 This program takes a while to run. If you only need data for a subset of the stocks in the default stock-names.txt file, adjust as needed.
 

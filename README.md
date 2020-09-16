@@ -17,5 +17,6 @@ This program takes a while to run. If you only need data for a subset of the sto
 
 ###### Requirements
 - Selenium (pip install selenium)
+- webdriver_manager (pip install webdriver_manager)
 
 

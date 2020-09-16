@@ -1,7 +1,7 @@
 # wsj-analyst-spreads
 
 ###### Description
-This program uses the Wall Street Journal API to collect analyst price targets for your target stocks.
+This program uses the Wall Street Journal API to collect analyst price targets for designated stocks.
 
 As a default, the program takes as input a list of all stocks on the NASDAQ in the stock-names.txt file, and returns two pickle serialized python dictionaries, "ratings_dict_all.pkl" and "extremes.pkl".
 
